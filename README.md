@@ -2,6 +2,7 @@
 
 ## 📊 Project Overview
 Interactive Power BI dashboard for visualizing and analyzing e-commerce sales data, covering key performance metrics like revenue, customer behavior, and product performance.
+Dataset Used: https://www.kaggle.com/datasets/onigbenga/ecommerce-dataset
 
 ## 📁 Files Included
 
@@ -31,7 +32,7 @@ Interactive Power BI dashboard for visualizing and analyzing e-commerce sales da
 
 ## 🚀 How to Use
 
-1. Clone this repo or download the files.
+1. Download the files.
 2. Open `E-commerce.pbix` in Power BI Desktop.
 3. Explore or modify the visuals and DAX formulas as needed.
 4. Connect your own dataset to repurpose the dashboard.
